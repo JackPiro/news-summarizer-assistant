@@ -21,6 +21,9 @@ client = openai.OpenAI()
 def main():
     
 
+
+
+
     
 
     def get_news(topic):
