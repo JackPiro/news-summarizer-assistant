@@ -24,6 +24,8 @@ def main():
 
 
 
+
+
     
 
     def get_news(topic):
